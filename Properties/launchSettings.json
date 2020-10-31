@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "smart-hub-console-controller": {
+      "commandName": "Project",
+      "commandLineArgs": "http://192.168.1.69/reley1"
+    }
+  }
+}
